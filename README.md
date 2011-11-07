@@ -4,7 +4,7 @@
 
 It's a Mixin library for [LESS](http://lesscss.org/) to use CSS Drop shadows without images. The shadows are based on the excellent [CSS code by Nicolas Gallagher](http://nicolasgallagher.com/css-drop-shadows-without-images/)
 
-Here you can see a [demo of the shadows](http://nicolasgallagher.com/css-drop-shadows-without-images/demo/).
+Here you can see a [demo of the CSS shadows](http://nicolasgallagher.com/css-drop-shadows-without-images/demo/) by Nicolas.
 
 ##How?
 
